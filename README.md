@@ -1,3 +1,2 @@
 # ATLAS
-大研
-这是一个readme
+Some useful notes during my daily works
