@@ -1,0 +1,6 @@
+rucio list-dataset-replicas data17_13TeV.00340368.physics_Main.merge.DESDM_MCP.f894_m1911
+CERN-PROD_TZDISK
+CERN-PROD_SCRATCHDISK
+ATLAS Metadata Interface:
+https://ami.in2p3.fr
+to get the dataset name for rucio
