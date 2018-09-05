@@ -21,4 +21,4 @@ git pull # get the changes
 git tag -a v18.03.12 -m 'version 18.03.12'
 git push --tags
 
-
+If "git clone" fails and your machine is outside CERN, please try getting CERN Kerberos ticket first:$ kinit -f -r7d -A $USER@CERN.CH
