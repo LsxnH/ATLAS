@@ -4,5 +4,10 @@ CERN-PROD_SCRATCHDISK
 ATLAS Metadata Interface:
 https://ami.in2p3.fr
 to get the dataset name for rucio
-simple tutorial:
+#simple tutorial:
 https://rc.coepp.org.au/grid/rucio
+https://twiki.cern.ch/twiki/bin/view/AtlasComputing/SoftwareTutorialGettingDatasets
+https://twiki.cern.ch/twiki/bin/viewauth/AtlasComputing/RucioClientsHowTo
+
+#add rules by Command Line(or go to the web Interface: https://rucio-ui.cern.ch/)
+rucio add-rule mc16_13TeV.341423.PowhegPythia8EvtGen_CT10_AZNLO_WmH125J_MINLO_muvmuWWlvlv.deriv.DAOD_HIGG3D1.e4210_s3126_r9364_p3639 --lifetime=15552000 --grouping DATASET --skip-duplicates 1 "USTC-T3_LOCALGROUPDISK"
