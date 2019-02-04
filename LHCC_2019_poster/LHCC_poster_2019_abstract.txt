@@ -1,0 +1,11 @@
+The ATLAS experiment at the Large Hadron Collider utilises a trigger system consisting of
+a first level hardware trigger and a higher level software trigger. The Level-1 Muon Barrel
+Trigger is one of the main elements for the event selection of the ATLAS experiment. It
+exploits the Resistive Plate Chambers (RPC) detectors to generate the trigger signal. The
+RPCs are arranged in three concentric double layers and operate in a strong magnetic
+toroidal field. RPC detectors cover the pseudo-rapidity range |η| < 1.05 for a total surface
+of more than 4000 m^2 and about 3600 gas volumes. The Level-1 Muon Trigger in the
+barrel region allows to select muon candidates with respect to their transverse momentum
+and associates them with the correct bunch-crossing number. The performance of the
+RPC detector system as well as the Muon Barrel trigger performance during the ATLAS
+2018 data taking are here presented.
